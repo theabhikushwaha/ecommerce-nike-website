@@ -33,7 +33,4 @@ export function init() {
   counters.forEach((counter) => observer.observe(counter));
 }
 
-// export function render() { return '<section data-page="account"></section>'; }
-// export function render() { return '<section data-page="about"></section>'; }
-// export function render() { return '<section data-page="about"></section>'; }
-// export function render() { return '<section data-page="about"></section>'; }
+// export function render() { return '<section data-page="account"></section>';
