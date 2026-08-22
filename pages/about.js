@@ -32,5 +32,3 @@ export function init() {
   }), { threshold: 0.35 });
   counters.forEach((counter) => observer.observe(counter));
 }
-
-// export function render() { return '<section data-page="account"></section>';
