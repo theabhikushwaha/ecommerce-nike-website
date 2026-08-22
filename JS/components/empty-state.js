@@ -1,1 +1,0 @@
-export function emptyState() { return `<section class="catalog-empty" data-component="empty-state"><span aria-hidden="true">⌕</span><h2>No products found</h2><p>Try adjusting your filters or search for something else.</p><button class="button" type="button" data-action="clear-filters">Clear filters</button></section>`; }
