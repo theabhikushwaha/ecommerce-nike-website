@@ -58,3 +58,9 @@ export function init() {
     showToast('Thanks - your message has been sent.');
   });
 }
+
+// export function render() { return '<section data-page="contact"></section>'; }
+// export function render() { return '<section data-page="contact"></section>'; }
+// export function render() { return '<section data-page="contact"></section>'; }
+// export function render() { return '<section data-page="contact"></section>'; }
+// export function render() { return '<section data-page="contact"></section>'; }
