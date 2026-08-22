@@ -112,7 +112,3 @@ export function init() {
   });
 }
 
-
-// export function render() { return '<section data-page="cart"></section>'; }
-
-export function render() { return '<section data-page="cart"></section>'; }
